@@ -2,7 +2,7 @@
 # Project Structure
 
 The hands on project on Create Interactive Dashboards with Streamlit and Python is divided into following tasks:
-Task 1: Project Overview and Demo
+*  Task 1: Project Overview and Demo
 Task 2: Turn Simple Python Scripts into Web Apps
 Task 3: Load the Twitter US Airline Sentiment Data
 Task 4: Display Tweets in the Sidebar
